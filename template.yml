@@ -4,3 +4,4 @@ disable:
 
 variables:
   license: GPL
+  license_file: COPYING.txt
